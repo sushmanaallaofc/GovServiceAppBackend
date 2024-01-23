@@ -1,8 +1,8 @@
 module.exports={
-    HOST: 'localhost',
+    HOST: '15.207.152.29',
     USER: 'postgres',
-    PASSWORD: 'Sushma@1234',
-    DB: 'goServiceDB',
+    PASSWORD: 'postgres',
+    DB: 'postgres',
     dialect: 'postgres',
 
     pool:{
